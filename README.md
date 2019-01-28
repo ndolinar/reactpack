@@ -1,6 +1,6 @@
 # reactpack
 
-A React project starter with webpack bundler.
+A React project starter with webpack bundler
 
 - **React Router v4** for routing
 - **Redux** for state management
@@ -9,7 +9,7 @@ A React project starter with webpack bundler.
   - development: **webpack dev server** with **hot module replacement**
   - production: minifyed/uglifyed assets, vendor files extracted into one chunk, one CSS file
 
-**npm script**
+**npm scripts**
 
 - `npm start`: starts the development server with HMR
 - `npm run build:prod`: production build (`./dist`)
