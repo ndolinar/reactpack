@@ -19,7 +19,7 @@ export class ProfilePage extends Component {
               </a>
             </p>
           );
-        }),
+        })
       );
     }
 
@@ -40,5 +40,5 @@ const mapStateToProps = state => ({
 
 export default connect(
   mapStateToProps,
-  null,
+  null
 )(ProfilePage);

@@ -37,5 +37,5 @@ const mapDispatchToProps = {
 };
 export default connect(
   null,
-  mapDispatchToProps,
+  mapDispatchToProps
 )(LoginPage);
